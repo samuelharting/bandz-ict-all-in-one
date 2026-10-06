@@ -1,8 +1,8 @@
-# Bandz All-in-One
+# Bandz All-in-One | ICT Trading Toolkit
 
 Free, open-source Pine Script v6 indicator by Bandz-ICT.
 
-Five independently configurable modules: STDV/CISD, HTF candles, sessions, intraday timing/FVG, and SMT.
+An integrated ICT chart toolkit: HTF candles, STDV/CISD, sessions, intraday macros/FVGs, and SMT.
 
 ## Install in TradingView
 
